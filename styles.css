@@ -110,7 +110,7 @@ p {
 }
 
 .contact {
-  background-color: #273033;
+  background-color: #d1d3d4;
   height: 500px;
   color: white;
   padding: 100px;
@@ -128,7 +128,7 @@ p {
 }
 
 footer {
-  background-color: black;
+  background-color:  #00aced; /* changed color from blk because it was hard to see*/
   color: #E3E5E6;
 }
 
